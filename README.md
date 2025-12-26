@@ -12,6 +12,20 @@
 
 ![KHS1000's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHS1000&show_icons=true&theme=radical)
 
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHS1000&layout=compact)
+
+<br>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=KHS1000&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/KHS1000"
+  width="600"
+  height="300"
+/>
+</a>
+
 
 ### `💬 Contact Me`
 [https://www.slton.com]
